@@ -1,1 +1,1 @@
-# Mineral-Libeartion-Image-Analysis-
+# Mineral-Liberation-Image-Analysis-
