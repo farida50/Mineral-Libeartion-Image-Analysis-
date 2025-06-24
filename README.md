@@ -9,6 +9,12 @@ This repository contains the Python-based automated image processing pipeline de
 - Grain size distribution and liberation percentage calculation
 - Batch processing support
 
+## How to Run
+
+1. Install required Python packages:
+pip install opencv-python numpy matplotlib pandas seaborn jupyter
+
+
 ## Repository Structure
 
 - `src/` - Python source code modules
