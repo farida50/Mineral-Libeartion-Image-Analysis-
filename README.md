@@ -15,11 +15,10 @@ This repository contains the Python-based automated image processing pipeline de
 pip install opencv-python numpy matplotlib pandas seaborn jupyter
 
 
-## Repository Structure
+## Project Structure
 
-- `src/` - Python source code modules
-- `notebooks/` - Jupyter notebooks for exploratory analysis and visualization
-- `data/` - Sample SEM images for testing
-- `outputs/` - Example output files (CSV, labeled images)
-
+- `data/`: SEM images and input data files
+- `outputs/`: Results such as CSV files and labeled images
+- `requirements.txt`: List of Python packages needed
+- `LICENSE`: License information
 
