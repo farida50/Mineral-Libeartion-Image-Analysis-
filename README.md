@@ -1,6 +1,10 @@
 # Mineral-Liberation-Image-Analysis-
 This repository contains the Python-based automated image processing pipeline developed to predict mineral liberation behavior from polished section SEM images of chalcopyrite and pyrite.
 
+## Project Overview
+
+The project implements an automated workflow using Python to preprocess SEM images, segment mineral grains, and quantitatively analyze grain size distributions to estimate liberation efficiency. This approach supports early-stage mineral processing design by providing predictive insights from polished section textures without requiring fully liberated particle samples.
+
 ## Features
 
 - Image preprocessing (grayscale conversion, Gaussian filtering)
