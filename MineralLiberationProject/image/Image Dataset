@@ -1,3 +1,4 @@
 # SEM Image Dataset
 This folder contains sample SEM polished section images used for testing the mineral liberation prediction pipeline.
 
+This folder also contains processed SEM images of Chalcopyrite and Pyrite 
