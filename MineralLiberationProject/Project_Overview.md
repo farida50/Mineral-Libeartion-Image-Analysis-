@@ -1,4 +1,4 @@
-# Project Overview: Mineral Liberation Prediction
+## Project Overview: Mineral Liberation Prediction
 
 This project develops a Python-based automated image processing pipeline to predict the liberation behavior of chalcopyrite and pyrite minerals from polished section SEM images.
 
