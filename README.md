@@ -18,6 +18,11 @@ The project implements an automated workflow using Python to preprocess SEM imag
 1. Install required Python packages:
 pip install opencv-python numpy matplotlib pandas seaborn jupyter
 
+## Usage
+
+1. Open the Jupyter notebook:
+jupyter notebook MineralLiberationProject/liberation_sem
+
 
 ## Project Structure
 
